@@ -1,0 +1,11 @@
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\bin\Debug\netcoreapp3.1\BerlinClockCodeChallenge.exe
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\bin\Debug\netcoreapp3.1\BerlinClockCodeChallenge.deps.json
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\bin\Debug\netcoreapp3.1\BerlinClockCodeChallenge.runtimeconfig.json
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\bin\Debug\netcoreapp3.1\BerlinClockCodeChallenge.runtimeconfig.dev.json
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\bin\Debug\netcoreapp3.1\BerlinClockCodeChallenge.dll
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\bin\Debug\netcoreapp3.1\BerlinClockCodeChallenge.pdb
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\obj\Debug\netcoreapp3.1\BerlinClockCodeChallenge.csprojAssemblyReference.cache
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\obj\Debug\netcoreapp3.1\BerlinClockCodeChallenge.AssemblyInfoInputs.cache
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\obj\Debug\netcoreapp3.1\BerlinClockCodeChallenge.AssemblyInfo.cs
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\obj\Debug\netcoreapp3.1\BerlinClockCodeChallenge.dll
+D:\RND\Job_Search\BerlinClockCodeChallenge\BerlinClockCodeChallenge\obj\Debug\netcoreapp3.1\BerlinClockCodeChallenge.pdb
